@@ -11,10 +11,17 @@ main{
     text-align: center;
     background-color: cornflowerblue;
     border-radius: 30px;
-    width: 24%;
+    width: 28%;
 }
 
 path:hover{
     fill: crimson;
     stroke: gainsboro;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 5px;
+    color: gray;
 }
